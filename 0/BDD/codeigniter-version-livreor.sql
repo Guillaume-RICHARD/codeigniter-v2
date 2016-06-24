@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Client: localhost
--- Généré le: Ven 24 Juin 2016 à 22:38
+-- Généré le: Ven 24 Juin 2016 à 22:40
 -- Version du serveur: 5.6.30-0ubuntu0.14.04.1
 -- Version de PHP: 5.6.22-1+donate.sury.org~trusty+1
 

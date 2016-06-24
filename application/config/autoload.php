@@ -109,7 +109,7 @@ $autoload['language'] = array();
 |
 */
 
-$autoload['model'] = array('site_model', 'jointure_model');
+$autoload['model'] = array('livreor_model', 'site_model', 'jointure_model');
 // $autoload['model'] = array('blog_model', 'jointure_model');
 
 

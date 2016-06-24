@@ -42,7 +42,8 @@
 // $route['default_controller'] = "site";
 // $route['default_controller'] = "blog";
 // $route['default_controller'] = "jointure";
-$route['default_controller'] = "article";
+//$route['default_controller'] = "article";
+$route['default_controller'] = "livreor";
 $route['404_override'] = '';
 
 
